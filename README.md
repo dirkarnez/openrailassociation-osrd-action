@@ -6,4 +6,4 @@ OpenRailAssociation-osrd-action
 - See [dirkarnez/devtunnel-playground](https://github.com/dirkarnez/devtunnel-playground)
 
 ### Web UI
-- https://${Tunnel ID}.devtunnels.ms:4000/
+- `https://${Tunnel ID}.devtunnels.ms:4000/`
